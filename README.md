@@ -48,8 +48,3 @@ python evaluate.py --dataset kitti
 ## 📄 Citation
 
 Please cite the following paper if you use this code:
-
-
-
-
-你需要增强哪个部分？
