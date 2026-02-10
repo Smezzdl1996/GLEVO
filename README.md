@@ -1,6 +1,6 @@
 # 📌 GLEVO: Global-Context Guided Local Geometry Enhancement for Self-Supervised Visual Odometry in Autonomous Driving via a Foundation Model
 
-*Submitted to IEEE Robotic and Automation Letters, 2026.*
+*Submitted to Expert Systems with Appliaction, 2026.*
 
 The code will be released after the paper is accepted.
 
